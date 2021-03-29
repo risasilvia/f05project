@@ -24,7 +24,7 @@
        
             
             <div class="header-bar">
-                <img  src="assets/image/logo-putih.png">
+                <img  src="logo-putih.png">
                 <h1>F05 COMPANY</h1>
                 <ul>
                     <li><a href="">Sign Up</a></li>
@@ -82,7 +82,7 @@
     <div class="footer">
         <footer>
             <div class="container-footer">
-                <img class="logo-footer" src="assets/image/logo-putih.png">
+                <img class="logo-footer" src="logo-putih.png">
                 <div class="footer-list">
                     <ul>
                         <li><a>Tentang</a></li>
